@@ -703,8 +703,9 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ItemList",
-  "itemListElement": [
+  "@type": "Organization",
+  "name": "Lexus288",
+  "review": [
     {
       "@type": "Review",
       "author": {
