@@ -21,14 +21,14 @@
 	<link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
 
 	<!-- CANONICAL -->
-	<link rel="canonical" href="https://pauluniversity.edu.ng/contact-us/">
+	<link rel="canonical" href="https://www.pauluniversity.edu.ng/contact-us/">
 
 	<!-- OG TAGS (Cleaned) -->
 	<meta property="og:locale" content="id_ID">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="LEXUS288 # Situs Gacor Via Dana Terpercaya dan Link Toto Slot Update 2026">
 	<meta property="og:description" content="LEXUS288 merupakan platform situs gacor deposit dana terpercaya dan link toto slot terupdate tahun 2026. Dengan sistem transaksi yang mudah, cepat, serta aman melalui metode pembayaran dana, ovo, gopay, dan bank lainnya. Memasuki tahun 2026, situs ini terus melakukan pembaruan untuk meningkatkan kualitas layanan, termasuk penguatan sistem keamanan.">
-	<meta property="og:url" content="https://pauluniversity.edu.ng/contact-us/">
+	<meta property="og:url" content="https://www.pauluniversity.edu.ng/contact-us/">
 	<meta property="og:image" content="https://image.cdn.centcloud.seaart.me/2025-06-09/d133p2de878c73814jl0/3e9e8709b21cbfac5b66d2839811e817_high.webp">
 	<meta property="og:image:alt" content="Lexus288">
 	<meta property="og:site_name" content="Lexus288 • Situs Gacor Via Dana">
@@ -602,7 +602,7 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "LEXUS288",
-  "url": "https://pauluniversity.edu.ng/contact-us/"
+  "url": "https://www.pauluniversity.edu.ng/contact-us/"
 }
 </script>
 
@@ -611,7 +611,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "LEXUS288",
-  "url": "https://pauluniversity.edu.ng/contact-us/",
+  "url": "https://www.pauluniversity.edu.ng/contact-us/",
   "logo": "https://www.pauluniversity.edu.ng/wp-content/uploads/2018/12/paullogo_18.png"
 }
 </script>
@@ -621,7 +621,7 @@
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "LEXUS288 # Situs Gacor Via Dana Terpercaya dan Link Toto Slot Update 2026",
-  "url": "https://pauluniversity.edu.ng/contact-us/",
+  "url": "https://www.pauluniversity.edu.ng/contact-us/",
   "description": "LEXUS288 merupakan platform situs gacor deposit dana terpercaya dan link toto slot terupdate tahun 2026. Dengan sistem transaksi yang mudah, cepat, serta aman melalui metode pembayaran dana, ovo, gopay, dan bank lainnya. Memasuki tahun 2026, situs ini terus melakukan pembaruan untuk meningkatkan kualitas layanan, termasuk penguatan sistem keamanan."
 }
 </script>
@@ -635,13 +635,13 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Beranda",
-      "item": "https://pauluniversity.edu.ng/contact-us/"
+      "item": "https://www.pauluniversity.edu.ng/contact-us/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Situs Gacor Via Dana",
-      "item": "https://pauluniversity.edu.ng/contact-us/"
+      "item": "https://www.pauluniversity.edu.ng/contact-us/"
     }
   ]
 }
@@ -748,7 +748,7 @@
 <center><h1 style="font-weight:bold;">Situs Gacor Via Dana Terpercaya dan Link Toto Slot Update 2026</h1></center>
 
 <p>
-Selamat datang di layanan <a href="https://pauluniversity.edu.ng/contact-us/"><strong>Lexus288</strong></a> merupakan platform situs gacor deposit dana terpercaya dan link toto slot terupdate tahun 2026. Dengan sistem transaksi yang mudah, cepat, serta aman melalui metode pembayaran dana, ovo, gopay, dan bank lainnya. Memasuki tahun 2026, situs ini terus melakukan pembaruan untuk meningkatkan kualitas layanan, termasuk penguatan sistem keamanan.</p>
+Selamat datang di layanan <a href="https://www.pauluniversity.edu.ng/contact-us/"><strong>Lexus288</strong></a> merupakan platform situs gacor deposit dana terpercaya dan link toto slot terupdate tahun 2026. Dengan sistem transaksi yang mudah, cepat, serta aman melalui metode pembayaran dana, ovo, gopay, dan bank lainnya. Memasuki tahun 2026, situs ini terus melakukan pembaruan untuk meningkatkan kualitas layanan, termasuk penguatan sistem keamanan.</p>
 
 <p>
 Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat kemenangan kompetitif, LEXUS288 menekankan pentingnya bermain secara bertanggung jawab. Informasi mengenai peluang kemenangan, jenis permainan, dan mekanisme transaksi disajikan dengan jelas agar pemain dapat memahami risiko serta membuat keputusan yang lebih bijak sebelum berpartisipasi.
@@ -805,7 +805,7 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://pauluniversity.edu.ng/contact-us/">Envato Market</a>
+                    <a href="https://www.pauluniversity.edu.ng/contact-us/">Envato Market</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -813,41 +813,41 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" href="https://pauluniversity.edu.ng/contact-us/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" href="https://www.pauluniversity.edu.ng/contact-us/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="hhttps://pauluniversity.edu.ng/contact-us/">
+                    <a class="off-canvas-left__site" href="hhttps://www.pauluniversity.edu.ng/contact-us/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://pauluniversity.edu.ng/contact-us/">
+                    <a class="off-canvas-left__site" href="https://www.pauluniversity.edu.ng/contact-us/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://pauluniversity.edu.ng/contact-us/">
+                    <a class="off-canvas-left__site" href="https://www.pauluniversity.edu.ng/contact-us/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://pauluniversity.edu.ng/contact-us/">
+                    <a class="off-canvas-left__site" href="https://www.pauluniversity.edu.ng/contact-us/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://pauluniversity.edu.ng/contact-us/">
+                    <a class="off-canvas-left__site" href="https://www.pauluniversity.edu.ng/contact-us/">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://pauluniversity.edu.ng/contact-us/">
+                    <a class="off-canvas-left__site" href="https://www.pauluniversity.edu.ng/contact-us/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -856,7 +856,7 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://pauluniversity.edu.ng/contact-us/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://www.pauluniversity.edu.ng/contact-us/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -871,404 +871,404 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" href="https://pauluniversity.edu.ng/contact-us/">
+                        <a class="off-canvas-category-link" href="https://www.pauluniversity.edu.ng/contact-us/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" href="https://pauluniversity.edu.ng/contact-us/">
+                        <a class="off-canvas-category-link" href="https://www.pauluniversity.edu.ng/contact-us/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Real
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" href="https://pauluniversity.edu.ng/contact-us/">
+                        <a class="off-canvas-category-link" href="https://www.pauluniversity.edu.ng/contact-us/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Template Kits</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Template Kits</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://pauluniversity.edu.ng/contact-us/">
+                        <a class="off-canvas-category-link--empty" href="https://www.pauluniversity.edu.ng/contact-us/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" href="https://pauluniversity.edu.ng/contact-us/">
+                        <a class="off-canvas-category-link" href="https://www.pauluniversity.edu.ng/contact-us/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Specialty Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" href="https://pauluniversity.edu.ng/contact-us/">
+                        <a class="off-canvas-category-link" href="https://www.pauluniversity.edu.ng/contact-us/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://pauluniversity.edu.ng/contact-us/">
+                        <a class="off-canvas-category-link--empty" href="https://www.pauluniversity.edu.ng/contact-us/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" href="https://pauluniversity.edu.ng/contact-us/">
+                        <a class="off-canvas-category-link" href="https://www.pauluniversity.edu.ng/contact-us/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" href="https://pauluniversity.edu.ng/contact-us/">
+                        <a class="off-canvas-category-link" href="https://www.pauluniversity.edu.ng/contact-us/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Show all CMS</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Show all CMS</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" href="https://pauluniversity.edu.ng/contact-us/">
+                        <a class="off-canvas-category-link" href="https://www.pauluniversity.edu.ng/contact-us/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" href="https://pauluniversity.edu.ng/contact-us/">
+                        <a class="off-canvas-category-link" href="https://www.pauluniversity.edu.ng/contact-us/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Photoshop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://pauluniversity.edu.ng/contact-us/">
+                        <a class="off-canvas-category-link--empty" href="https://www.pauluniversity.edu.ng/contact-us/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" href="https://pauluniversity.edu.ng/contact-us/">
+                        <a class="off-canvas-category-link" href="https://www.pauluniversity.edu.ng/contact-us/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Facebook Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Free Elementor Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Free Elementor Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Free
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pauluniversity.edu.ng/contact-us/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://www.pauluniversity.edu.ng/contact-us/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank"
-                                    href="https://pauluniversity.edu.ng/contact-us/">Unlimited
+                                    href="https://www.pauluniversity.edu.ng/contact-us/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1277,7 +1277,7 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
 
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank"
-                            href="https://pauluniversity.edu.ng/contact-us/">Unlimited
+                            href="https://www.pauluniversity.edu.ng/contact-us/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1289,7 +1289,7 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://pauluniversity.edu.ng/contact-us/">
+                <a class="off-canvas-right__link--cart" href="https://www.pauluniversity.edu.ng/contact-us/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1316,7 +1316,7 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://pauluniversity.edu.ng/contact-us/">
+                                    <a class="btn btn--square" href="https://www.pauluniversity.edu.ng/contact-us/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1333,21 +1333,21 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://pauluniversity.edu.ng/contact-us/">
+                                    <a class="btn btn--square" href="https://www.pauluniversity.edu.ng/contact-us/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://pauluniversity.edu.ng/contact-us/">
+                                    <a class="btn btn--square" href="https://www.pauluniversity.edu.ng/contact-us/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://pauluniversity.edu.ng/contact-us/">
+                                    <a href="https://www.pauluniversity.edu.ng/contact-us/">
                                         <img alt="Logo Baru" src="https://www.pauluniversity.edu.ng/wp-content/uploads/2018/12/paullogo_18.png" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1362,20 +1362,20 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://pauluniversity.edu.ng/contact-us/">
+                                    <a href="https://www.pauluniversity.edu.ng/contact-us/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://www.pauluniversity.edu.ng/wp-content/uploads/2018/12/paullogo_18.png">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://pauluniversity.edu.ng/contact-us/">
+                                                <a class="global-header-menu__link" href="https://www.pauluniversity.edu.ng/contact-us/">
                                                     <span class="global-header-menu__link-text">
                                                         LEXUS288
                                                     </span>
                                                 </a>
                                             </li>
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://pauluniversity.edu.ng/contact-us/">
+                                                <a class="global-header-menu__link" href="https://www.pauluniversity.edu.ng/contact-us/">
                                                     <span class="global-header-menu__link-text">
                                                         5 DAFTAR SLOT MAHJONG
                                                     </span>
@@ -1398,7 +1398,7 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
                                                     </span>
                                                 </a>
                                                 <li class="global-header-menu__list-item -background-light -border-radius">
-                                                    <a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://pauluniversity.edu.ng/contact-us/">
+                                                    <a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://www.pauluniversity.edu.ng/contact-us/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1433,22 +1433,22 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
                                 <div class="grid-container -layout-wide" bis_skin_checked="1">
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link is-active" alt="Web Templates" href="https://pauluniversity.edu.ng/contact-us/">Lexus288</a>
+                                            <a class="header-site-titles__link t-link is-active" alt="Web Templates" href="https://www.pauluniversity.edu.ng/contact-us/">Lexus288</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Code" href="https://pauluniversity.edu.ng/contact-us/">Daftar Slot Mahjong Malam Ini</a>
+                                            <a class="header-site-titles__link t-link" alt="Code" href="https://www.pauluniversity.edu.ng/contact-us/">Daftar Slot Mahjong Malam Ini</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Video" href="https://pauluniversity.edu.ng/contact-us/">Daftar Slot Mahjong</a>
+                                            <a class="header-site-titles__link t-link" alt="Video" href="https://www.pauluniversity.edu.ng/contact-us/">Daftar Slot Mahjong</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Music" href="https://pauluniversity.edu.ng/contact-us/">PG Slot</a>
+                                            <a class="header-site-titles__link t-link" alt="Music" href="https://www.pauluniversity.edu.ng/contact-us/">PG Slot</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Graphics" href="https://pauluniversity.edu.ng/contact-us/">Slot Mahjong Malam Ini</a>
+                                            <a class="header-site-titles__link t-link" alt="Graphics" href="https://www.pauluniversity.edu.ng/contact-us/">Slot Mahjong Malam Ini</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Photos" href="https://pauluniversity.edu.ng/contact-us/">Pemain Bermodal Kecil</a>
+                                            <a class="header-site-titles__link t-link" alt="Photos" href="https://www.pauluniversity.edu.ng/contact-us/">Pemain Bermodal Kecil</a>
                                         </div>
 
                                         <div class="header-site-floating-logo__container" bis_skin_checked="1">
@@ -1467,14 +1467,14 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
                                 <div class="grid-container -layout-wide" bis_skin_checked="1">
                                     <ul class="header-categories__links">
                                         <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" href="https://pauluniversity.edu.ng/contact-us/">
+                                            <a class="header-categories__main-link" href="https://www.pauluniversity.edu.ng/contact-us/">
 
                                                 LEXUS288
 
                                             </a>
                                         </li>
                                <div class="header-categories__search" bis_skin_checked="1">
-                                        <form id="search" action="https://pauluniversity.edu.ng/contact-us/" accept-charset="UTF-8" method="get">
+                                        <form id="search" action="https://www.pauluniversity.edu.ng/contact-us/" accept-charset="UTF-8" method="get">
                                             <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                 <div class="search-field__input" bis_skin_checked="1">
                                                     <input id="term" name="term" class="js-term search-field__input-field" type="search" placeholder="Search">
@@ -1505,12 +1505,12 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://pauluniversity.edu.ng/contact-us/">LEXUS288</a>
+                                <a class="js-breadcrumb-category" href="https://www.pauluniversity.edu.ng/contact-us/">LEXUS288</a>
 
 
-                                <a href="https://pauluniversity.edu.ng/contact-us/" class="js-breadcrumb-category">5 Daftar Slot Mahjong</a>
+                                <a href="https://www.pauluniversity.edu.ng/contact-us/" class="js-breadcrumb-category">5 Daftar Slot Mahjong</a>
 
-                                <a class="js-breadcrumb-category" href="https://pauluniversity.edu.ng/contact-us/">Slot Mahjong</a>
+                                <a class="js-breadcrumb-category" href="https://www.pauluniversity.edu.ng/contact-us/">Slot Mahjong</a>
                             </nav>
 
                             <div class="item-header" bis_skin_checked="1">
@@ -1524,7 +1524,7 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
                                     </div>
 
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
-                                        <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m" rel="nofollow" title="Add to Cart" href="https://pauluniversity.edu.ng/contact-us/">
+                                        <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m" rel="nofollow" title="Add to Cart" href="https://www.pauluniversity.edu.ng/contact-us/">
                                             <span class="item-header__cart-button-icon">
                                                 <i class="e-icon -icon-cart -margin-right"></i>
                                             </span>
@@ -1534,7 +1534,7 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://pauluniversity.edu.ng/contact-us/">Slot Mahjong</a>
+                                        By <a rel="author" class="js-by-author" href="https://www.pauluniversity.edu.ng/contact-us/">Slot Mahjong</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1568,7 +1568,7 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
                             
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-details t-link -decoration-none" href="https://pauluniversity.edu.ng/contact-us/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-details t-link -decoration-none" href="https://www.pauluniversity.edu.ng/contact-us/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -1725,10 +1725,10 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
 
     <div class="page-tabs" bis_skin_checked="1">
         <ul class="right item-bookmarking__left-icons_hidden">
-            <li class="js-favorite-widget item-bookmarking__control_icons--favorite"><a class="t-link -decoration-none" href="https://pauluniversity.edu.ng/contact-us/"><span
+            <li class="js-favorite-widget item-bookmarking__control_icons--favorite"><a class="t-link -decoration-none" href="https://www.pauluniversity.edu.ng/contact-us/"><span
                                                 class="item-bookmarking__control--label">Add to Favorites</span></a>
             </li>
-            <li class="js-collection-widget item-bookmarking__control_icons--collection"><a class="t-link -decoration-none" href="https://pauluniversity.edu.ng/contact-us/"><span
+            <li class="js-collection-widget item-bookmarking__control_icons--collection"><a class="t-link -decoration-none" href="https://www.pauluniversity.edu.ng/contact-us/"><span
                                                 class="item-bookmarking__control--label">Add to Collection</span></a>
             </li>
         </ul>
@@ -1752,7 +1752,7 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
                             <li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites"
-                                                        href="https://pauluniversity.edu.ng/contact-us/"><span
+                                                        href="https://www.pauluniversity.edu.ng/contact-us/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a>
                                 </span>
@@ -1761,7 +1761,7 @@ Sebagai salah satu situs yang dikenal menyediakan permainan slot dengan tingkat 
                             <li class="item-bookmarking__control_icons--collection">
                                 <span>
                                                     <a title="Add to Collection"
-                                                        href="https://pauluniversity.edu.ng/contact-us/">
+                                                        href="https://www.pauluniversity.edu.ng/contact-us/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span>
                                 </a>
@@ -1803,7 +1803,7 @@ src="https://www.pauluniversity.edu.ng/wp-content/uploads/2018/12/paullogo_18.pn
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://pauluniversity.edu.ng/contact-us/">
+                                <a class="item-description-toggle__link" href="https://www.pauluniversity.edu.ng/contact-us/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -1822,7 +1822,7 @@ src="https://www.pauluniversity.edu.ng/wp-content/uploads/2018/12/paullogo_18.pn
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form
-                                    action="https://pauluniversity.edu.ng/contact-us/" accept-charset="UTF-8" method="post">
+                                    action="https://www.pauluniversity.edu.ng/contact-us/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1">
                                         <div bis_skin_checked="1">
@@ -1850,7 +1850,7 @@ src="https://www.pauluniversity.edu.ng/wp-content/uploads/2018/12/paullogo_18.pn
                                                     </div>
                                                     <div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://pauluniversity.edu.ng/contact-us/">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://www.pauluniversity.edu.ng/contact-us/">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -1883,7 +1883,7 @@ src="https://www.pauluniversity.edu.ng/wp-content/uploads/2018/12/paullogo_18.pn
                                                     </li>
                                                     <li class="t-icon-list__item -icon-ok">
                                                         <span class="is-visually-hidden">Included:</span> Slot Mahjong <span class="purchase-form__author-name"></span>
-                                                        <a class="t-link -decoration-reversed js-support__inclusion-link" href="https://pauluniversity.edu.ng/contact-us/">
+                                                        <a class="t-link -decoration-reversed js-support__inclusion-link" href="https://www.pauluniversity.edu.ng/contact-us/">
                                                             <svg width="12px" height="13px" viewBox="0 0 12 13" class="" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                                                 <title>More Info</title>
                                                                                 <path fill-rule="evenodd"
