@@ -703,8 +703,9 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
+  "@type": "Product",
   "name": "Lexus288",
+  "description": "LEXUS288 merupakan platform situs gacor deposit dana terpercaya dan link toto slot terupdate tahun 2026. Dengan sistem transaksi yang mudah, cepat, serta aman melalui metode pembayaran dana, ovo, gopay, dan bank lainnya. Memasuki tahun 2026, situs ini terus melakukan pembaruan untuk meningkatkan kualitas layanan, termasuk penguatan sistem keamanan.",
   "review": [
     {
       "@type": "Review",
