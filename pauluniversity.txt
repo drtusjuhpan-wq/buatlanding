@@ -634,7 +634,7 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "Beranda",
+      "name": "LEXUS288",
       "item": "https://www.pauluniversity.edu.ng/contact-us/"
     },
     {
