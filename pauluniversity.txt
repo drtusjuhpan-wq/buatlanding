@@ -648,10 +648,6 @@
 </script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
     {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -694,47 +690,6 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Lexus288 menggunakan sistem keamanan dan enkripsi untuk menjaga privasi serta data pengguna agar tetap aman."
-      }
-    }
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Lexus288",
-  "description": "LEXUS288 merupakan platform situs gacor deposit dana terpercaya dan link toto slot terupdate tahun 2026. Dengan sistem transaksi yang mudah, cepat, serta aman melalui metode pembayaran dana, ovo, gopay, dan bank lainnya. Memasuki tahun 2026, situs ini terus melakukan pembaruan untuk meningkatkan kualitas layanan, termasuk penguatan sistem keamanan.",
-  "review": [
-    {
-      "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": "Dewi Ananda"
-      },
-      "datePublished": "2025-12-12",
-      "reviewBody": "Platform hiburan digital ini sangat mudah digunakan. Tampilan yang rapi dan navigasi yang jelas membuat pengalaman pengguna menjadi lebih nyaman.",
-      "name": "Ulasan dari Dewi",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
-      }
-    },
-    {
-      "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": "Rizky Pramana"
-      },
-      "datePublished": "2025-12-12",
-      "reviewBody": "Saya menyukai fitur-fitur interaktif yang tersedia. Platform ini cukup stabil dan responsif, cocok untuk hiburan digital sehari-hari.",
-      "name": "Ulasan dari Rizky",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.7",
-        "bestRating": "5"
       }
     }
   ]
