@@ -602,7 +602,15 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "LEXUS288",
-  "url": "https://www.pauluniversity.edu.ng/contact-us/"
+  "url": "https://www.pauluniversity.edu.ng/contact-us/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "LEXUS288",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.pauluniversity.edu.ng/wp-content/uploads/2018/12/paullogo_18.png"
+    }
+  }
 }
 </script>
 
@@ -612,7 +620,8 @@
   "@type": "Organization",
   "name": "LEXUS288",
   "url": "https://www.pauluniversity.edu.ng/contact-us/",
-  "logo": "https://www.pauluniversity.edu.ng/wp-content/uploads/2018/12/paullogo_18.png"
+  "logo": "https://www.pauluniversity.edu.ng/wp-content/uploads/2018/12/paullogo_18.png",
+  "sameAs": []
 }
 </script>
 
@@ -622,7 +631,7 @@
   "@type": "WebPage",
   "name": "LEXUS288 # Situs Gacor Via Dana Terpercaya dan Link Toto Slot Update 2026",
   "url": "https://www.pauluniversity.edu.ng/contact-us/",
-  "description": "LEXUS288 merupakan platform situs gacor deposit dana terpercaya dan link toto slot terupdate tahun 2026. Dengan sistem transaksi yang mudah, cepat, serta aman melalui metode pembayaran dana, ovo, gopay, dan bank lainnya. Memasuki tahun 2026, situs ini terus melakukan pembaruan untuk meningkatkan kualitas layanan, termasuk penguatan sistem keamanan."
+  "description": "LEXUS288 merupakan platform situs gacor deposit dana terpercaya dan link toto slot terupdate tahun 2026. Dengan sistem transaksi mudah, cepat, dan aman melalui dana, ovo, gopay, dan bank lainnya."
 }
 </script>
 
@@ -634,7 +643,7 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "LEXUS288",
+      "name": "Beranda",
       "item": "https://www.pauluniversity.edu.ng/contact-us/"
     },
     {
@@ -648,7 +657,7 @@
 </script>
 
 <script type="application/ld+json">
-    {
+{
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
@@ -665,7 +674,7 @@
       "name": "Apa saja fitur utama Lexus288?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Lexus288 menawarkan tampilan modern, akses cepat melalui perangkat seluler, serta beberapa fitur hiburan yang dirancang agar mudah digunakan oleh semua kalangan."
+        "text": "Lexus288 menawarkan tampilan modern, akses cepat melalui perangkat seluler, serta fitur hiburan yang dirancang agar mudah digunakan oleh semua kalangan."
       }
     },
     {
@@ -673,7 +682,7 @@
       "name": "Apakah Lexus288 dapat digunakan di smartphone?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ya. Lexus288 telah dioptimalkan agar dapat diakses melalui smartphone, tablet, maupun komputer tanpa perlu menginstal aplikasi tambahan."
+        "text": "Ya. Lexus288 telah dioptimalkan agar dapat diakses melalui smartphone, tablet, maupun komputer tanpa perlu menginstal aplikasi."
       }
     },
     {
@@ -681,7 +690,7 @@
       "name": "Bagaimana cara membuat akun di Lexus288?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pengguna hanya perlu mengisi data dasar yang diperlukan pada halaman pendaftaran. Setelah itu akun dapat langsung digunakan untuk mengakses layanan hiburan digital."
+        "text": "Pengguna cukup mengisi data dasar pada halaman pendaftaran, kemudian akun dapat langsung digunakan."
       }
     },
     {
@@ -689,7 +698,7 @@
       "name": "Apakah Lexus288 aman digunakan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Lexus288 menggunakan sistem keamanan dan enkripsi untuk menjaga privasi serta data pengguna agar tetap aman."
+        "text": "Lexus288 menggunakan sistem keamanan dan enkripsi untuk melindungi data serta privasi pengguna."
       }
     }
   ]
@@ -2119,7 +2128,4 @@ src="https://www.pauluniversity.edu.ng/wp-content/uploads/2018/12/paullogo_18.pn
 <a href="https://freenumberstencils.com/">lexus288</a>
 </div>
 </div>
-
-
-
 
